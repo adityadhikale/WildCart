@@ -1,0 +1,36 @@
+/* For larger screens (desktop) */
+.slider-container {
+    height: 500px;
+}
+
+/* For medium-sized screens (tablets) */
+@media (max-width: 991.98px) {
+    .slider-container {
+        height: 700px; /* Adjust the height as needed */
+    }
+}
+
+/* For smaller screens (mobile devices) */
+@media (max-width: 575.98px) {
+    .slider-container {
+        height: 800px; /* Adjust the height as needed */
+    }
+}
+
+.carousel-inner img {
+    max-height: 500px;
+}
+
+/* For medium-sized screens (tablets) */
+@media (max-width: 991.98px) {
+    .carousel-inner img {
+        max-height: 700px; /* Adjust the height as needed */
+    }
+}
+
+/* For smaller screens (mobile devices) */
+@media (max-width: 575.98px) {
+    .carousel-inner img {
+        max-height: 800px; /* Adjust the height as needed */
+    }
+}
