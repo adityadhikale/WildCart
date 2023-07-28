@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WildCart/static/css/main.08b88d6d.css",
+    "main.js": "/WildCart/static/js/main.0186321f.js",
+    "static/media/revicons.eot": "/WildCart/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/WildCart/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/WildCart/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/WildCart/index.html",
+    "main.08b88d6d.css.map": "/WildCart/static/css/main.08b88d6d.css.map",
+    "main.0186321f.js.map": "/WildCart/static/js/main.0186321f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b88d6d.css",
+    "static/js/main.0186321f.js"
+  ]
+}
